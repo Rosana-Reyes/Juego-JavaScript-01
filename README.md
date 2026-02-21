@@ -1,4 +1,5 @@
 Juego en JavaScript
+
 Este proyecto consiste en un juego interactivo desarrollado con JavaScript, HTML y CSS. La dinámica se basa en tres cuadros que cambian de color de manera automática y aleatoria, donde el usuario puede detener cada uno en el momento que desee.
 Cada cuadro funciona con su propio intervalo independiente, lo que permite que los cambios de color no sigan una secuencia uniforme. 
 Funcionamiento
